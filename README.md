@@ -1,5 +1,4 @@
-<h1>Hi, I'm Abdulwasiu Adegboye! <br/><a href="https://github.com/Wasiu-lab">Cloud Engineering</a>, <a href="https://www.linkedin.com/in/abdulwasiu-adegboye/">Data Engineering</a>, <a href="https://github.com/Wasiu-lab">Security</a></h1>
-
+<h1>Hi, I'm Abdulwasiu Adegboye! <br/><a href="https://github.com/Wasiu-lab">Cloud Engineering</a>, and <a href="https://www.linkedin.com/in/abdulwasiu-adegboye/">Data Engineering</a>
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
