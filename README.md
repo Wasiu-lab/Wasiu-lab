@@ -1,8 +1,8 @@
 # 💫 About Me:
 🚧 I’m currently working on: Building projects in cloud engineering and exploring data engineering concepts and projects.<br>
-🤝 I’m looking to collaborate on: Open-source cloud automation and data pipeline projects, especially using Terraform, Kubernetes, and ETL tools.<be>
+🤝 I’m looking to collaborate on: Open-source cloud automation and data pipeline projects, especially using Terraform, Kubernetes, and ETL tools.<br>
 🙌 I’m seeking help with: Advanced DevOps workflows, optimizing CI/CD pipelines, and designing scalable data pipelines.<br>
-🌱 I’m currently learning: Serverless architectures, IaC with Terraform, container orchestration with Kubernetes, and data engineering tools like Apache Spark and Airflow.<br>💬 Ask me about: Cloud infrastructure, AWS best practices, transitioning into cloud engineering, and starting with data engineering.<be>
+🌱 I’m currently learning: Serverless architectures, IaC with Terraform, container orchestration with Kubernetes, and data engineering tools like Apache Spark and Airflow.<br>💬 Ask me about: Cloud infrastructure, AWS best practices, transitioning into cloud engineering, and starting with data engineering.<br>
 ⚡ Fun fact: I enjoy playing volleyball, trading forex, and exploring ways to increase income through technology and personal growth.
 
 ## 🌐 Socials:
